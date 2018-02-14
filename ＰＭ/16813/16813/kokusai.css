@@ -1,0 +1,19 @@
+
+#txtInfo{
+	border:	solid 1px black;
+	
+}
+#personalNumber{
+	border:	solid 1px black;
+}
+#NationText{
+	border: solid 1px black;
+}
+#faceImage{
+	width: 55mm;
+	height: 65mm;
+	border: solid 1px black;
+}
+#tokugiInfo{
+	border: solid 1px black;
+}

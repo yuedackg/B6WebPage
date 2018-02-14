@@ -1,0 +1,22 @@
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script>
+</script>
+<style>
+
+</style>
+
+</head>
+<body>
+<h1>ŠO‘‚Ì”ü–¡‚µ‚¢—¿—</h1>
+<p>anything.</P>
+<img src="sonota/php.JPG" width="400" height="400">
+<img src="sonota/memo.JPG" width="400" height="400">
+<br>
+<a href="redai.html">‚¨Õ‚è</a><br>
+
+</body>
+</html>
+
